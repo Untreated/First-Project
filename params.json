@@ -1,6 +1,6 @@
 {
   "name": "Project #1",
   "tagline": "My First Project",
-  "body": "### This is my first project! I hope you enjoy :D\r\n\r\n**I am very tired, and hoping that you will all wake me up.** Sorry that was so random haha",
+  "body": "### This is my first project! I hope you enjoy :D\r\n\r\n**I am very tired, and hoping that you will all wake me up.** Sorry that was so random haha\r\n\r\n<button type=\"button\">Click Me For Nothing!</button> \r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
